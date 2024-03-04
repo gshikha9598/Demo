@@ -1,0 +1,27 @@
+.d-flex{
+    display: flex;
+}
+.gap-20{
+    gap: 30px;
+}
+.margin-top{
+    margin-top: 50px;
+}
+.text1{
+    width: 50%; 
+    background-color: rgb(238, 208, 12); 
+    padding: 50px;
+}
+.data{
+    justify-content: center;
+}
+.sec4 {
+    background-color: rgb(220, 248, 247);
+}
+.sec5 {
+    margin-top: 20px;
+    display: flex;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: rgb(72, 156, 188);
+}
